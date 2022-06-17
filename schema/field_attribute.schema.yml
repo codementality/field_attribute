@@ -1,0 +1,16 @@
+field.widget.third_party.field_attribute:
+  type: mapping
+  label: 'field attribute settings'
+  mapping:
+    field_attribute_maxlength:
+      type: integer
+    field_attribute_pattern:
+      type: string
+    field_attribute_autofocus:
+      type: string
+    field_attribute_autocomplete:
+      type: string
+    field_attribute_class:
+      type: string
+    field_attribute_data:
+      type: string
